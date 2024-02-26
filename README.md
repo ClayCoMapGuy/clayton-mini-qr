@@ -1,8 +1,11 @@
-# mini-qr-code-generator
+# clayton-mini-qr-code-generator
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A customizable QR code generator to create beautiful and unique QR codes.
+
+This is a custom fork of the original MiniQR project created by lyqht
+https://github.com/lyqht/styled-qr-code-generator
 
 <div style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center; gap:8px;">
     <a href="https://github.com/lyqht"><img width="100" src="public/presets/lyqht.svg" /></a>
